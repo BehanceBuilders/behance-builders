@@ -33,7 +33,7 @@ Split-The-Cost is a web application that helps users track and divide shared exp
 ## **Contributors**
 Add your name below if you're contributing to this project:
 
-- Victor Oluwayemi
+- Victor Oluwayemi.
 - [Koleaje Olayinka (OluwaTOBI)](https://github.com/koleajeolayinka)
 - [Abanikannda Sultan](https://github.com/devsultan06)
 - [Ebube Akukwe](https://github.com/EbubeAkukwe)
